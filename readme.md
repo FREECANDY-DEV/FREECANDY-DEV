@@ -1,7 +1,7 @@
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; vertical-align: top; padding: 5px;">
-<pre style="font-size: 8px; line-height: 8px;">
+    <td style="width: 50%; vertical-align: top; padding: 2px;">
+<pre style="font-size: 6px; line-height: 6px; color: #3fb950; text-shadow: 0 0 2px #3fb950;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣴⡶⠶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⡶⠶⠞⠛⠋⠉⠁⠀⢸⠀⠀⠀⠉⠙⠻⠶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠳⠶⣤⣀⡀⠀⠀⠀⠀
@@ -19,8 +19,8 @@
 ⠀⠛⠷⢦⣤⣄⣀⠀⠀⠉⠉⠉⠛⠛⠉⡇⠀⠀⢀⡟⣸⠋⠈⢷⢹⣾⡟⠋⠉⠁⠀⠀⠀⠀⠀⠀⠈⠛⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀
 </pre>
     </td>
-    <td style="width: 50%; vertical-align: top; padding: 5px;">
-<pre style="font-size: 8px; line-height: 8px;">
+    <td style="width: 50%; vertical-align: top; padding: 2px;">
+<pre style="font-size: 6px; line-height: 6px; color: #d2a8ff; text-shadow: 0 0 2px #d2a8ff;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠾⠿⠿⠷⠶⣦⣄⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣪⡾⠋⠁⠀⠒⢘⠉⠀⠀⠀⠛⠻⣦⡹⡄⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠟⣿⣎⠐⠀⠀⡀⠀⠀⠂⠀⠐⡀⠈⣿⡄⠀⠀
@@ -38,6 +38,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
