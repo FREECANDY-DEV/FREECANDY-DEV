@@ -1,7 +1,7 @@
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; padding: 2px;">
-<pre style="font-size: 6px; line-height: 6px; color: #3fb950; text-shadow: 0 0 2px #3fb950;">
+<pre style="font-size: 4px; line-height: 4px; color: #3fb950; text-shadow: 0 0 2px #3fb950;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣴⡶⠶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⡶⠶⠞⠛⠋⠉⠁⠀⢸⠀⠀⠀⠉⠙⠻⠶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠳⠶⣤⣀⡀⠀⠀⠀⠀
@@ -20,7 +20,7 @@
 </pre>
     </td>
     <td style="width: 50%; vertical-align: top; padding: 2px;">
-<pre style="font-size: 6px; line-height: 6px; color: #d2a8ff; text-shadow: 0 0 2px #d2a8ff;">
+<pre style="font-size: 4px; line-height: 4px; color: #d2a8ff; text-shadow: 0 0 2px #d2a8ff;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠾⠿⠿⠷⠶⣦⣄⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣪⡾⠋⠁⠀⠒⢘⠉⠀⠀⠀⠛⠻⣦⡹⡄⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠟⣿⣎⠐⠀⠀⡀⠀⠀⠂⠀⠐⡀⠈⣿⡄⠀⠀
@@ -39,20 +39,14 @@
   </tr>
 </table>
 
-
-
-
-```text
-.-:::::':::::::..  .,:::::: .,::::::   .,-:::::   :::.   :::.    :::.:::::::-. .-:.     ::-.
-;;;'''' ;;;;``;;;; ;;;;'''' ;;;;'''' ,;;;'````'   ;;`;;  `;;;;,  `;;; ;;,   `';,';;.   ;;;;'
-[[[,,==  [[[,/[[['  [[cccc   [[cccc  [[[         ,[[ '[[,  [[[[[. '[[ `[[     [[  '[[,[[['  
-`$$$"``  $$$$$$c$$""""   $$""""  $$$c$$$cc$$$c$$$ "Y$c$$ $$,   $$c$$"    
- 888     888b "88bo,888oo,__ 888oo,__`88bo,__,o, 888   888,888    Y88  888_,o8P'  ,8P"`     
- "MM,    MMMM   "W" """"YUMMM""""YUMMM "YUMMMMMP"YMM   ""` MMM     YM  MMMMP"`   mM"        
-```        
-
-
 <img width="800" height="450" alt="11191" src="https://github.com/user-attachments/assets/d4694a1b-2718-44af-9a5e-085eb7f6e404" />
 
-
+<pre style="font-size: 8px; line-height: 8px;">
+.-:::::':::::::..  .,:::::: .,::::::   .,-:::::   :::.   :::.     :::.:::::::-. .-:.     ::-.
+;;;'''' ;;;;``;;;; ;;;;'''' ;;;;'''' ,;;;'````'   ;;`;;  `;;;;,  `;;; ;;,   `';,';;.   ;;;;'
+[[[,,==  [[[,/[[['  [[cccc   [[cccc  [[[         ,[[ '[[,  [[[[[. '[[ `[[     [[  '[[,[[['  
+`$$$"``  $$$$$$c$$""""  $$""""  $$$c$$$cc$$$c$$$ "Y$c$$ $$,   $$c$$"    
+ 888     888b "88bo,888oo,__ 888oo,__`88bo,__,o, 888   888,888    Y88  888_,o8P'  ,8P"`     
+ "MM,    MMMM   "W" """"YUMMM""""YUMMM "YUMMMMMP"YMM   ""` MMM     YM  MMMMP"`   mM"        
+</pre>
 
